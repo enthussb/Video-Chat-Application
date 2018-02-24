@@ -96,7 +96,7 @@ li.list-group-item:first-child
 }
 .maincontent
 {
-	background-image:url('video.jpg');	
+	background-image:url('video.png');	
 	box-shadow: inset 100vw 100vh rgba(0, 0, 0, 0.5);	
 	background-repeat:no-repeat;
 	background-position: center center;	
